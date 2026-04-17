@@ -9,7 +9,6 @@ This project predicts customer churn using Machine Learning.
 - Seaborn, Matplotlib
 - Scikit-learn
 - SQLite
-- Streamlit
 
 ## Features
 - Data preprocessing
@@ -17,9 +16,7 @@ This project predicts customer churn using Machine Learning.
 - Logistic Regression & Random Forest
 - Confusion Matrix & Accuracy
 - Feature Importance
-- Interactive Dashboard
 
 ## How to Run
 ```bash
 python churn_project.py
-streamlit run dashboard.py
